@@ -48,6 +48,10 @@ This project is made for learning **ESP32, motor control, and Bluetooth communic
 | GPIO 19  | ENA   |
 | GPIO 4   | ENB   |
 
+## Controller
+Use Bluetooth RC controler
+available from playstore 
+
 📷 _Connection diagram image will be added_
 ---
 
