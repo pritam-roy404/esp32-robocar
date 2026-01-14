@@ -52,7 +52,9 @@ This project is made for learning **ESP32, motor control, and Bluetooth communic
 Use Bluetooth RC controler
 available from playstore 
 
-📷 _Connection diagram image will be added_
+📷 Connection diagram image
+---
+![My Image](Diagram/circuit_image.png)
 ---
 
 ## 👨‍🎓 Author
